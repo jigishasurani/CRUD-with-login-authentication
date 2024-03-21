@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CRUD-with-login-authentication/static/css/main.8d2cc4c2.css",
+    "main.js": "/CRUD-with-login-authentication/static/js/main.71fa1dbe.js",
+    "index.html": "/CRUD-with-login-authentication/index.html",
+    "main.8d2cc4c2.css.map": "/CRUD-with-login-authentication/static/css/main.8d2cc4c2.css.map",
+    "main.71fa1dbe.js.map": "/CRUD-with-login-authentication/static/js/main.71fa1dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d2cc4c2.css",
+    "static/js/main.71fa1dbe.js"
+  ]
+}
